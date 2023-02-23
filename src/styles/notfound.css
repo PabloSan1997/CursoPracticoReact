@@ -1,0 +1,17 @@
+.posno{
+    width: 100%;
+    height: 80vh;
+}
+.posno .hola{
+    transform: scaleX(-1);
+    margin:5% auto;
+}
+.posno .error{
+    font-size: 1.5rem;
+    color: rgb(2, 2, 29);
+    position: fixed;
+    top:200px;
+    left: 250px;
+    transform: rotate(-20deg);
+    text-align: center;
+}
